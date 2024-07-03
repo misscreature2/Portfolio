@@ -30,22 +30,174 @@
     <section id="gallery">
         <h2>Gallery</h2>
         <div class="gallery">
-            <!-- Placeholder for Art Piece -->
             <div class="art-piece">
-                <img src="placeholder.jpg" alt="Art Description">
-                <p>Description of the art piece.</p>
+                <img src="20210528_164836.jpg" alt="Artwork 1">
+                <p>Artwork 1 Description</p>
             </div>
-            <!-- Add more placeholders as needed -->
+            <div class="art-piece">
+                <img src="20210528_175549.jpg" alt="Artwork 2">
+                <p>Artwork 2 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="20230927_165851.jpg" alt="Artwork 3">
+                <p>Artwork 3 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="5x7 prints SOUL of my SOUL.png" alt="Artwork 4">
+                <p>Artwork 4 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="BL CONTRACTING FINAL -WHITE.ai" alt="Artwork 5">
+                <p>Artwork 5 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="Capture.JPG" alt="Artwork 6">
+                <p>Artwork 6 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="DSC01355.JPG" alt="Artwork 7">
+                <p>Artwork 7 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="DSC09866.jpg" alt="Artwork 8">
+                <p>Artwork 8 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="DSC_0635.JPG" alt="Artwork 9">
+                <p>Artwork 9 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="FPV Spaceman PINK.png" alt="Artwork 10">
+                <p>Artwork 10 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_0059.JPG" alt="Artwork 11">
+                <p>Artwork 11 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_0066.JPG" alt="Artwork 12">
+                <p>Artwork 12 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_0072.JPG" alt="Artwork 13">
+                <p>Artwork 13 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_0083.JPG" alt="Artwork 14">
+                <p>Artwork 14 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_0145.png" alt="Artwork 15">
+                <p>Artwork 15 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_0149.png" alt="Artwork 16">
+                <p>Artwork 16 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_0194.JPG" alt="Artwork 17">
+                <p>Artwork 17 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_0444.png" alt="Artwork 18">
+                <p>Artwork 18 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_0575.JPG" alt="Artwork 19">
+                <p>Artwork 19 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_1359.JPG" alt="Artwork 20">
+                <p>Artwork 20 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_2644.JPG" alt="Artwork 21">
+                <p>Artwork 21 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_3567.JPG" alt="Artwork 22">
+                <p>Artwork 22 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_4830.png" alt="Artwork 23">
+                <p>Artwork 23 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_4853.JPG" alt="Artwork 24">
+                <p>Artwork 24 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_7029.JPG" alt="Artwork 25">
+                <p>Artwork 25 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="IMG_7089.JPG" alt="Artwork 26">
+                <p>Artwork 26 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="JPEG small.jpg" alt="Artwork 27">
+                <p>Artwork 27 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="LYONS FRONT BCARD.ai" alt="Artwork 28">
+                <p>Artwork 28 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="MVI_0832.00_00_32_14.Still003.png" alt="Artwork 29">
+                <p>Artwork 29 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="Mechanic Personas.png" alt="Artwork 30">
+                <p>Artwork 30 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="Miss Creature for Online stuff.jpg" alt="Artwork 31">
+                <p>Artwork 31 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="QUADRAMEN SKETCHBOOK.jpg" alt="Artwork 32">
+                <p>Artwork 32 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="Untitled-Artwork (12).png" alt="Artwork 33">
+                <p>Artwork 33 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="Wankel resized 2011.png" alt="Artwork 34">
+                <p>Artwork 34 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="isnt she lovely jpg.jpg" alt="Artwork 35">
+                <p>Artwork 35 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="magnetic pill (6).JPG" alt="Artwork 36">
+                <p>Artwork 36 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="triple.png" alt="Artwork 37">
+                <p>Artwork 37 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="wankel (4).JPG" alt="Artwork 38">
+                <p>Artwork 38 Description</p>
+            </div>
+            <div class="art-piece">
+                <img src="wankel (6).JPG" alt="Artwork 39">
+                <p>Artwork 39 Description</p>
+            </div>
         </div>
-    </section>
+    </div>
+</section>
 
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Provide your contact information here.</p>
-    </section>
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Provide your contact information here.</p>
+</section>
 
-    <footer>
-        <p>&copy; 2024 Your Name</p>
-    </footer>
+<footer>
+    <p>&copy; 2024 Your Name</p>
+</footer>
 </body>
 </html>
+
