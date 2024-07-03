@@ -37,10 +37,12 @@ section {
 .gallery {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center; /* Centers the images */
 }
 
 .art-piece {
     margin: 10px;
+    width: calc(25% - 20px); /* Adjusts to 4 images per row with margin */
 }
 
 .art-piece img {
